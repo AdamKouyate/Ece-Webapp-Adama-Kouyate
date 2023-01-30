@@ -1,7 +1,7 @@
-### Bienvenue, je suis Adama KOUYATE.
+### Welcome ! 
 
 
-### Je suis étudiant développeur web.
+### I'm Adama, a web developer student.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
