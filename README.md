@@ -1,8 +1,7 @@
 ### Bienvenue, je suis Adama KOUYATE.
 
-### Je vis à Paris, Ile de France.
 
-### Je suis étudiant ingénieur en Système d'Information (option Cybersécurité)
+### Je suis étudiant développeur web.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
